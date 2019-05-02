@@ -14,7 +14,7 @@ public class DemoDockerApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/")
     public String home() {
-        return "Hello Amsterdam";
+        return "Hello Amsterdam Finalist";
     }
 
 	public static void main(String[] args) {
